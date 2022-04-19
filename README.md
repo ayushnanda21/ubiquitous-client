@@ -1,4 +1,4 @@
-## Ubiquitous client client side w/h react --socialapi
+## Ubiquitous  client side w/h react --socialapi
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
